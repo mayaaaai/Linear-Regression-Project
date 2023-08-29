@@ -1,8 +1,10 @@
 # System Identification Project Report
 
-![UTCN Logo](utcn_logo.png)
+![UTCN Logo](logo.png)
 
-*Incer Maia*  \hfill  *Group 30332*
+*Group 30332*
+
+*Incer Maia*  
 
 *Kiss Tamás Norbert*
 
